@@ -6,9 +6,8 @@ This project is a growing collection of reusable, customizable SwiftUI component
 ## 🌟 Features
 
 - ✅ Clean, production-ready SwiftUI components
-- 💡 Custom controls (e.g. toggle switches, buttons, loaders)
+- 💡 Custom controls
 - 🎨 Smooth, customizable animations
-- 🛠️ Modular and easy-to-integrate code
 - 📱 Designed for scalability and reusability
 
 ---
