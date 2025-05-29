@@ -20,7 +20,6 @@ A customizable toggle switch with support for color themes, icons, and animation
 ### ✅ `WaterFillingView`
 This SwiftUI code defines a beautiful animated water fill effect inside a circle, simulating a wave that gradually fills up a container. The animation combines wave motion, fill level progression, and gradient-based styling to create a smooth, visually engaging component.
 
-
 ---
 
 Import the components into your project:
