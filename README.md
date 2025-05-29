@@ -18,7 +18,7 @@ This project is a growing collection of reusable, customizable SwiftUI component
 A customizable toggle switch with support for color themes, icons, and animations.
 
 ### ✅ `WaterFillingView`
-A aninated water filling view which use as loader in application like health of water related concept.
+This SwiftUI code defines a beautiful animated water fill effect inside a circle, simulating a wave that gradually fills up a container. The animation combines wave motion, fill level progression, and gradient-based styling to create a smooth, visually engaging component.
 
 
 ---
