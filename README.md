@@ -23,7 +23,7 @@ This SwiftUI code defines a beautiful animated water fill effect inside a circle
 ---
 
 Import the components into your project:
-Download prject and simply drag and drop the files you need into your Xcode project.
+Download prpject and simply drag and drop the files you need into your Xcode project.
 
 ---
 
