@@ -23,6 +23,9 @@ This SwiftUI code defines a beautiful animated water fill effect inside a circle
 ### ✅ `CircleLoader`
 This SwiftUI animation that creates the small circles (it's accept dynamic value) which are moving along the edge of a large circle, with each circle intercepting almost 20% of the other circles, giving continuous rotation, overlapping loader effect based on size of circle. 
 
+### ✅ `MorphCircleView`
+Wrapped up a fun little animation in SwiftUI – featuring three morphing, pulsing circles rotating inside a larger circle with a smooth effect. The movement is fully dynamic, with subtle overlaps and seamless transitions.✨
+
 ---
 
 Import the components into your project:
